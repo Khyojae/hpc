@@ -7,3 +7,9 @@ Release/
 # Original archive and its extracted copy (identical to lec1_*)
 OpenMP_source_code (1)/
 OpenMP_source_code (1).zip
+
+# Build outputs and submission archives
+*.exe
+*.zip
+7week/task_parallelization/fibonacci_parallel_task
+권효재_202120677_hw_7주차/job_serial
