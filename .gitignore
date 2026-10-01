@@ -1,0 +1,9 @@
+# Visual Studio caches / build output
+.vs/
+Debug/
+Release/
+*.vcxproj.user
+
+# Original archive and its extracted copy (identical to lec1_*)
+OpenMP_source_code (1)/
+OpenMP_source_code (1).zip
